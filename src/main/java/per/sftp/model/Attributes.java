@@ -1,4 +1,4 @@
-package com.axway.model;
+package per.sftp.model;
 
 import org.apache.sshd.common.AttributeRepository;
 

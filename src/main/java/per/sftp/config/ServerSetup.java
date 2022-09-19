@@ -1,6 +1,6 @@
-package com.axway.config;
+package per.sftp.config;
 
-import com.axway.listener.LocalSftpEventListener;
+import per.sftp.listener.LocalSftpEventListener;
 import io.quarkus.runtime.Startup;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.sshd.common.keyprovider.MappedKeyPairProvider;

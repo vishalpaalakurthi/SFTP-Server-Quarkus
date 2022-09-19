@@ -1,6 +1,6 @@
-package com.axway.config;
+package per.sftp.config;
 
-import com.axway.model.Attributes;
+import per.sftp.model.Attributes;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.sshd.common.file.FileSystemFactory;
 import org.apache.sshd.common.file.virtualfs.VirtualFileSystemFactory;

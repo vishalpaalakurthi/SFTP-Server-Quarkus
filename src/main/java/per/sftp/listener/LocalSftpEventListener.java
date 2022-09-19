@@ -1,4 +1,4 @@
-package com.axway.listener;
+package per.sftp.listener;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.sshd.server.session.ServerSession;

@@ -1,6 +1,6 @@
-package com.axway.config;
+package per.sftp.config;
 
-import com.axway.model.Attributes;
+import per.sftp.model.Attributes;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.sshd.server.auth.AsyncAuthException;
 import org.apache.sshd.server.auth.password.PasswordAuthenticator;
